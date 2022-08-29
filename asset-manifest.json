@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/loop_slider_design/static/css/main.b7a82d20.css",
+    "main.js": "/loop_slider_design/static/js/main.2ec83e7f.js",
+    "index.html": "/loop_slider_design/index.html",
+    "main.b7a82d20.css.map": "/loop_slider_design/static/css/main.b7a82d20.css.map",
+    "main.2ec83e7f.js.map": "/loop_slider_design/static/js/main.2ec83e7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7a82d20.css",
+    "static/js/main.2ec83e7f.js"
+  ]
+}
